@@ -14,7 +14,7 @@ $ npm install
 * 실행
 
 ```bash
-$ node app
+$ node mnemonic
 ```
 
 생성된 니모닉(mnemonic)을 다른 지갑에서 복구 후 계정생성하면 다음과 같이 순차적으로 account가 생성되는 것을 확인할 수 있다.
